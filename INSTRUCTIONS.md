@@ -4,3 +4,5 @@
 3. Add the gadget to your collection.
 4. Give the gadget permission to send and recieve network data.
 5. Optionally, add it to your launcher.
+6. Open your browser and go to [this page](https://developer.spotify.com/documentation/web-api).
+7. 

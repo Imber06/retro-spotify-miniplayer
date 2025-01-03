@@ -14,4 +14,4 @@
 13. Open the text editor and update startup.py with your Client ID and Client Secret.
 14. Use the text editor to change the second line of startup.bat to the location of your startup files. If you placed them on your desktop, this line might read "cd C:\Users\johnd\Desktop".
 15. Save, and you should be good to go! Make sure your Spotify is running, then launch the app from the system tray or in game.
-16. Open startup.bat, and you should have a connection. This can also be done in the reverse order, where you open startup.bat and then launch the gadget. You'll need to open this file to get an authorization code each time you launch the miniplayer. Happy listening!
+16. Open startup.bat, and you should have a connection. This can also be done in the reverse order, where you open startup.bat and then launch the gadget. You'll need to open startup.bat to get an authorization code each time you launch the miniplayer. Happy listening!

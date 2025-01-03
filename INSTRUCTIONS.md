@@ -1,5 +1,5 @@
 # Instructions
-1. Before getting started, make sure you have Flask installed on Windows. If you don't (or don't know), follow these links first: [installing pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) [installing flask](https://www.geeksforgeeks.org/how-to-install-flask-in-windows/)
+1. Before getting started, make sure you have Flask installed on Windows. If you don't (or don't know), follow these links first: [installing pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) and [installing flask](https://www.geeksforgeeks.org/how-to-install-flask-in-windows/).
 2. Open Retro Gadgets and go to the STEAM WORKSHOP tab in game.
 3. Click DISCOVER, and type "Spotify Miniplayer" in the search bar. Find the one with Imber as the author.
 4. Add the gadget to your collection.

@@ -8,3 +8,5 @@
 7. Log in and create an App.
 8. The name and website of the app doesn't matter. Go with http://localhost:3000/callback as your redirect URL (this specific URL can be changed, but if you go with another you must change the code to match).
 9. Under APIs used, select the Web API.
+10. Take your Client ID and Client Secret, and update the corresponding variables in the CPU0.lua file in Retro Gadgets. Make sure not to publish the device with these left in the code. I recommend adding a security chip, just in case.
+11. 

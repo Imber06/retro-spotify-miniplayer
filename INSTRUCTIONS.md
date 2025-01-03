@@ -11,4 +11,5 @@
 10. Under APIs used, select the Web API.
 11. Take your Client ID and Client Secret, and update the corresponding variables in the CPU0.lua file in Retro Gadgets. Make sure not to publish the device with these left in the code. I recommend adding a security chip, just in case.
 12. Download the files startup.bat and startup.py from this repository to an easily accessible place on your computer.
-13. Open the text editor and change the second line of startup.bat to the location of your startup files. If you placed them both on your desktop, this line might read "cd C:\Users\johnd\Desktop".
+13. Open the text editor and update startup.py with your Client ID and Client Secret.
+14. Use the text editor to change the second line of startup.bat to the location of your startup files. If you placed them on your desktop, this line might read "cd C:\Users\johnd\Desktop".
